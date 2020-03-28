@@ -16,7 +16,7 @@ curl_setopt_array($curl, array(
 	CURLOPT_CUSTOMREQUEST => "GET",
 	CURLOPT_HTTPHEADER => array(
 		"x-rapidapi-host: covid-19-coronavirus-statistics.p.rapidapi.com",
-		"x-rapidapi-key: 8b8ac0ea88msha290a4d501cedf8p16d436jsnf380c8548071"
+		"x-rapidapi-key: "
 	),
 ));
 
